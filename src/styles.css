@@ -56,6 +56,7 @@ header {
   margin-top: 20px;
   border-radius: 6px;
   color: white;
+  cursor: pointer;
 }
 
 main {
@@ -87,7 +88,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #60e550;
+  color: #0f0f0f;
 }
 
 .weather-app-temperature-container {
